@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotaMatchMaster", "DotaMatchMaster.csproj", "{7E29F82D-4C49-44F2-A9DC-51DBD4A39286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E29F82D-4C49-44F2-A9DC-51DBD4A39286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E29F82D-4C49-44F2-A9DC-51DBD4A39286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E29F82D-4C49-44F2-A9DC-51DBD4A39286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E29F82D-4C49-44F2-A9DC-51DBD4A39286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4A2EFA-1B55-4F82-ABA7-104D58681649}
+	EndGlobalSection
+EndGlobal
